@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://jctams17:jcmt11793@devconnector-szaeq.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
